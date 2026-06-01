@@ -22,7 +22,7 @@
 }
 
 .theme_light .header__rec {
-  display: none;
+  visibility: hidden;
 } 
 
 @media (prefers-color-scheme: light) {
@@ -40,6 +40,6 @@
   }
 
   .header__rec {
-    display: none;
+    visibility: hidden;
   }
 }
