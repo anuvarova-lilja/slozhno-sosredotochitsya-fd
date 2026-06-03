@@ -119,7 +119,7 @@
   line-height: 23.4px; /* 130% */
   color: var(--main-heading-color);
   /* margin-block-start: 20px; */
-  margin-block-end: 10px;
+  /* margin-block-end: 10px; */
 }
 
 .article {
@@ -188,6 +188,7 @@
 
 .subtitle {
   font-weight: 400;
+  margin-block-end: 0;
 }
 
 .article_pictures {
