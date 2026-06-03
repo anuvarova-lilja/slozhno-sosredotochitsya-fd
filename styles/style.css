@@ -118,7 +118,7 @@
   font-weight: 700;
   line-height: 23.4px; /* 130% */
   color: var(--main-heading-color);
-  margin-block-end: 20px;
+  margin-block-end: 10px;
 }
 
 /* .article {
