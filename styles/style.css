@@ -118,13 +118,9 @@
   font-weight: 700;
   line-height: 23.4px; /* 130% */
   color: var(--main-heading-color);
-  /* margin-block-start: 20px; */
-  /* margin-block-end: 10px; */
-}
 
-.article {
-  /* margin-block-start: 40px; */
-}
+/* .article {
+} */
 
 .text_paraghraph {
   line-height: 23.4px; /* 130% */
@@ -154,7 +150,6 @@
   font-size: 18px;
   line-height: 23.4px; /* 130% */
   font-weight: 700;
-  /* margin-block-start: 20px; */
   max-width: clamp(14.75rem, -0.0625rem + 30.8594vw, 19.6875rem);
 }
 
@@ -183,7 +178,6 @@
   display: flex;
   flex-direction: column;
   gap: 20px;
-  /* margin-block-start: 20px; */
 }
 
 .subtitle {
