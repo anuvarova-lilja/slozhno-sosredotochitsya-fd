@@ -10,7 +10,7 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --main-font: 'IBM Plex mono', monospace;
-  --bg-color: #ff8dcb;
+  --bg-color: ##fff2f7;
   --main-text-color: #353430;
   --nav-color: #353430;
   --section-heading-color: #353430;
@@ -28,7 +28,7 @@
 @media (prefers-color-scheme: light) {
   :root {
     --main-font: 'IBM Plex mono', monospace;
-    --bg-color: #ff8dcb;
+    --bg-color: ##fff2f7;
     --main-text-color: #353430;
     --nav-color: #353430;
     --section-heading-color: #353430;
