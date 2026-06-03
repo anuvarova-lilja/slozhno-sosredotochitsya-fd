@@ -17,8 +17,8 @@
   --main-heading-color: #353430;
   --logo-color: #ffc2e2;
   --shadow-color: #ff0070;
-  --header-title-shadow: #ff0070;
   --background-image: url(../images/cover-image-light.png);
+  --accent-color: #ff8dcb;
 }
 
 .theme-light .header__rec {
@@ -35,7 +35,6 @@
     --main-heading-color: #353430;
     --logo-color: #ffc2e2;
     --shadow-color: #ff0070;
-    --header-title-shadow: #ff0070;
     --background-image: url(../images/cover-image-light.png);
   }
 

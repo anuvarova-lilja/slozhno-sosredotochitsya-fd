@@ -16,8 +16,8 @@
   --main-heading-color: #000028;
   --section-heading-color: #ff0070;
   --logo-color: #db00ff;
-  --header-title-shadow: #ff0070;
   --background-image: url(../images/cover-image-dark.png);
+  --accent-color: #ff0070;
 }
 
 .theme-dark .header__rec {
