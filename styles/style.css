@@ -118,6 +118,7 @@
   font-weight: 700;
   line-height: 23.4px; /* 130% */
   color: var(--main-heading-color);
+  margin-block-end: 20px;
 }
 
 /* .article {
@@ -178,12 +179,11 @@
 .how-to_section {
   display: flex;
   flex-direction: column;
-  gap: 20px;
 }
 
 .subtitle {
   font-weight: 400;
-  margin-block-end: 0;
+  margin-block-end: 10px;
 }
 
 .article_pictures {
