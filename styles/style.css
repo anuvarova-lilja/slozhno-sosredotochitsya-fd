@@ -181,7 +181,7 @@
   flex-direction: column;
 }
 
-.how-to_section .section_heading {
+.section_heading:nth-child(1) {
   margin-block-end: 20px;
 }
 
