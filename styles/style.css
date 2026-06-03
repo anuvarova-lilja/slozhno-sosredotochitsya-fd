@@ -118,7 +118,7 @@
   font-weight: 700;
   line-height: 23.4px; /* 130% */
   color: var(--main-heading-color);
-  margin-block-end: 10px;
+  margin-block-end: 20px;
 }
 
 /* .article {
@@ -181,11 +181,11 @@
   flex-direction: column;
 }
 
-.section_heading:nth-child(1) {
-  margin-block-end: 20px;
-}
-
 .subtitle {
+  background-color: var(--accent-color);
+  font-size: 18px;
+  line-height: 23.4px; /* 130% */
+  color: var(--main-heading-color);
   font-weight: 400;
   margin-block-end: 10px;
 }
