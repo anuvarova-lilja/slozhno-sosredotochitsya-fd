@@ -310,6 +310,7 @@
   }
   .header {
     padding: 10px;
+    margin-bottom: 40px;
   }
   .why {
     display: flex;
@@ -320,7 +321,7 @@
   }
   .heading {
     max-width: 355px;
-    margin-block-start: 0;
+    margin-block-end: 20px;
   }
   .what {
     padding: 0 10px;
