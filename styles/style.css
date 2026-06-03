@@ -97,7 +97,7 @@
 }
 
 .resume {
-  background-color: var(--bg-color);
+  background-color: var(--accent-color);
   font-weight: 700;
   color: var(--main-heading-color);
   width: clamp(22.75rem, -1.0625rem + 49.6094vw, 30.6875rem);
@@ -113,7 +113,7 @@
 }
 
 .section_heading {
-  background-color: var(--bg-color);
+  background-color: var(--accent-color);
   font-size: 18px;
   font-weight: 700;
   line-height: 23.4px; /* 130% */
