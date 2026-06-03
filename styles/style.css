@@ -282,6 +282,9 @@
     flex-wrap: wrap;
     gap: 0;
   }
+  .how-to_section {
+    max-width: 472px;
+  }
 }
 
 @media (width <= 767px) {
@@ -311,7 +314,7 @@
     flex-wrap: wrap;
     padding: 0 10px;
     gap: 0;
-    margin-block-end: 40px;
+    margin-block-end: 30px;
   }
   .heading {
     max-width: 355px;
@@ -320,6 +323,7 @@
   .what {
     padding: 0 10px;
     margin-block-start: 0;
+    margin-block-end: 30px;
   }
   .text-blocks {
     display: flex;
