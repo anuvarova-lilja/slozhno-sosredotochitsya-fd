@@ -21,7 +21,7 @@
   --background-image: url(../images/cover-image-light.png);
 }
 
-.theme_light .header__rec {
+.theme-light .header__rec {
   display: none;
 } 
 
