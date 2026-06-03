@@ -121,9 +121,6 @@
   margin-block-end: 10px;
 }
 
-/* .article {
-} */
-
 .text_paraghraph {
   line-height: 23.4px; /* 130% */
   margin-block-end: 20px;
@@ -182,7 +179,7 @@
 }
 
 .how-to_section .section_heading {
- margin-block-end: 20px; 
+ margin-block-end: 20px;
 }
 
 .subtitle {
@@ -301,9 +298,6 @@
     place-self: center;
     justify-self: end;
   }
-  .article {
-    margin-block-end: 50px;
-  }
   .resume {
     max-width: 355px;
     width: 100%;
@@ -317,7 +311,7 @@
     flex-wrap: wrap;
     padding: 0 10px;
     gap: 0;
-    margin-block-end: 50px;
+    margin-block-end: 40px;
   }
   .heading {
     max-width: 355px;
@@ -337,7 +331,7 @@
     flex-wrap: wrap;
     padding: 0 10px;
     gap: 0;
-    margin-block-end: 50px;
+    margin-block-end: 40px;
     margin-block-start: 0;
   }
   .article_pictures {
