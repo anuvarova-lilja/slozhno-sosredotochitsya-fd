@@ -16,7 +16,7 @@
   --section-heading-color: #353430;
   --main-heading-color: #353430;
   --logo-color: #ffc2e2;
-  --shadow-color: #ff0070;
+  --shadow-color: rgba(255, 0, 112, 0.4);
   --background-image: url(../images/cover-image-light.png);
   --accent-color: #FF8DCB;
 }
@@ -34,7 +34,7 @@
     --section-heading-color: #353430;
     --main-heading-color: #353430;
     --logo-color: #ffc2e2;
-    --shadow-color: #ff0070;
+    --shadow-color: rgba(255, 0, 112, 0.4);
     --background-image: url(../images/cover-image-light.png);
     --accent-color: #FF8DCB;
   }
