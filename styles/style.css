@@ -49,7 +49,7 @@
 }
 
 .header__theme-menu-button:hover {
-  outline: 1px solid var(--shadow-color);
+  outline: 1px solid var(--theme-menu-button-hover-color);
   cursor: pointer;
 }
 

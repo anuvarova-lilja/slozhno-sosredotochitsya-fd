@@ -10,7 +10,8 @@
   --nav-color: #FF0070;
   --section-heading-color: #FF0070;
   --main-heading-color: #000028;
-  --shadow-color: rgba(255, 0, 112, 0.4);
+  --shadow-color:#FF0070;
+  --theme-menu-button-hover-color: #FF007066;
   --logo-color: #DB00FF;
   --background-image: url(../images/cover-image-dark.png);
   --accent-color: #FF0070;
